@@ -1,0 +1,8 @@
+- DOGE2.0 : https://etherscan.io/address/0xf2ec4a773ef90c58d98ea734c0ebdb538519b988
+- Pepe 2.0 : https://etherscan.io/address/0xfb66321d7c674995dfcc2cb67a30bc978dc862ad
+- Shib2.0 : https://etherscan.io/token/0xdfef6416ea3e6ce587ed42aa7cb2e586362cbbfa
+- Bitcoin2.0 : https://etherscan.io/token/0x3feb4fea5132695542f8ede5076ac43296d17c6d
+- Croc : https://etherscan.io/token/0xe9fea4479fc04f797190350687775573496d27a7
+- Pepe : https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933
+- Wpepe : https://www.dextools.io/app/en/ether/pair-explorer/0xd10b1aa3a49cc06f65c723f14ea0e43edda3102f
+- BabyDoge2.0 : https://etherscan.io/token/0x41b6f91daa1509bfbe06340d756560c4a1d146fd
